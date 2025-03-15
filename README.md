@@ -27,3 +27,12 @@ Numbered list:
 1. One
 2. Two
 6. Muffin
+
+
+# COESSING School 2023
+
+Steps:
+
+1. Find a template you like, for instance [Academic Pages](https://academicpages.github.io/)
+2. Go to it [GitHub repo](https://github.com/academicpages)
+3. Fork it to your repo and name a repo (optional)
