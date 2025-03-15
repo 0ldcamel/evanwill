@@ -12,7 +12,7 @@ Code highlight `back tick`
 New paragraph.
 Hyperlinks look like [Github Help](https://help.github.com)
 
-[Evan Will Github tutorial](https://evanwill.github.io/go-go-ghpages-b/)
+[Evan Will's Github tutorial](https://evanwill.github.io/go-go-ghpages-b/)
 
 ### Header three
 
